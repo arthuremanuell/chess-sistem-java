@@ -1,7 +1,4 @@
 package chess.pieces;
-
-import java.awt.Point;
-
 import boardgame.Board;
 import boardgame.Position;
 import chess.ChessPiece;
